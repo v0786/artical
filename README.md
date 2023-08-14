@@ -79,3 +79,4 @@ What is an example of an article in grammar?
 When should we not use articles?
 We don’t use the indefinite article with uncountable nouns, or any article with a possessive pronoun. Certain nouns such as nationalities, school subjects, and sports often don’t take articles, especially when they refer to general or abstract ideas. 
 
+refrence https://en.wikipedia.org/wiki/Artical
